@@ -1,0 +1,12 @@
+{
+  "plugins": [
+    "git-tag",
+    "all-contributors",
+    "first-time-contributor",
+    "released"
+  ],
+  "owner": "Arash138080",
+  "repo": "container-njig1a",
+  "name": "Arash138080",
+  "email": "arashalizamani442@gmail.com",
+}
